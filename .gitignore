@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+*.log
+*.crt
+*.key
+*.pem
+*.env
+secrets.py
+api_keys.py
+gdrive/
